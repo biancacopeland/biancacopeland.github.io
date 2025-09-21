@@ -3,10 +3,10 @@
     <channel>
         <title>Bianca Copeland</title>
         <description>Hilton is a super simple portfolio theme for Jekyll.</description>
-        <link>http://0.0.0.0:4000/</link>
-        <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Sep 2025 16:52:14 +0100</pubDate>
-        <lastBuildDate>Sun, 21 Sep 2025 16:52:14 +0100</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 21 Sep 2025 17:02:12 +0100</pubDate>
+        <lastBuildDate>Sun, 21 Sep 2025 17:02:12 +0100</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -24,8 +24,8 @@
 &lt;p&gt;And perhaps most importantly, self-love is not selfish. It’s what allows us to remain connected to ourselves while staying deeply connected to others. It’s the rhythm of pouring in and pouring out, a cycle that nourishes not only us, but everyone we touch.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 21 Sep 2025 13:01:35 +0100</pubDate>
-                <link>http://0.0.0.0:4000/blog/that-which-does-not-kill-us-makes-us-stronger</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/blog/that-which-does-not-kill-us-makes-us-stronger</guid>
+                <link>http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/that-which-does-not-kill-us-makes-us-stronger</guid>
                 
                 <category>lifestyle</category>
                 
@@ -84,8 +84,8 @@
 &lt;p&gt;Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 12 Nov 2024 12:01:35 +0000</pubDate>
-                <link>http://0.0.0.0:4000/blog/do-what-you-can-with-what-you-have-where-you-are</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/blog/do-what-you-can-with-what-you-have-where-you-are</guid>
+                <link>http://localhost:4000/blog/do-what-you-can-with-what-you-have-where-you-are</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/do-what-you-can-with-what-you-have-where-you-are</guid>
                 
                 <category>lifestyle</category>
                 
@@ -144,8 +144,8 @@
 &lt;p&gt;Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 11 Nov 2024 12:01:35 +0000</pubDate>
-                <link>http://0.0.0.0:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</link>
-                <guid isPermaLink="true">http://0.0.0.0:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</guid>
+                <link>http://localhost:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way</guid>
                 
                 <category>lifestyle</category>
                 
