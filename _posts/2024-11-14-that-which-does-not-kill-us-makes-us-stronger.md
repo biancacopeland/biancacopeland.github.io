@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Practical Side of Self-Love
-description: XXX
+description: A reflection on how mindfulness transforms self-care into a pathway for self-connection.
 date: 2025-09-21 15:01:35 +0300
 image: "/images/02.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
