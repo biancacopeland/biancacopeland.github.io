@@ -8,6 +8,13 @@
     flex-wrap: wrap;
     padding: 60px $base-spacing-unit;
 
+    @media only screen and (min-width: calc(#{$desktop} + 1px)) {
+      display: grid;
+      grid-template-columns: 1fr 2fr 1fr;
+      gap: 20px;
+      justify-items: center;
+    }
+
     @media only screen and (max-width: $desktop) {
       padding: 40px $base-spacing-unit;
     }
@@ -30,6 +37,12 @@
 
 .logo__image {
   max-height: 50px;
+}
+
+.logo {
+  @media only screen and (min-width: calc(#{$desktop} + 1px)) {
+    justify-self: start;
+  }
 }
 
 /* Nav */
@@ -360,6 +373,26 @@
     @media only screen and (max-width: $desktop) {
       background-color: inherit;
     }
+  }
+}
+
+/* Contact Button */
+.contact-button {
+  margin-left: auto;
+  margin-right: 20px;
+
+  @media only screen and (min-width: calc(#{$desktop} + 1px)) {
+    margin-left: 0;
+    margin-right: 0;
+    justify-self: end;
+  }
+
+  @media only screen and (max-width: $desktop) {
+    display: none;
+  }
+
+  .button {
+    margin: 0;
   }
 }
 

@@ -27,6 +27,15 @@
     }
   }
 
+  &--secondary {
+    color: var(--heading-font-color);
+    background-color: #ededf1;
+
+    &:hover {
+      background-color: #e0e1e5;
+    }
+  }
+
   &--small {
     padding: 20px 24px;
   }

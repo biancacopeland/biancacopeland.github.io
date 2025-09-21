@@ -2,7 +2,6 @@
 #-------------------------------
 # Site Settings
 title: Bianca Copeland
-logo: # You can add own logo. For example '/images/logo.png'.
 description: Hilton is a super simple portfolio theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -16,14 +15,8 @@ menu__settings:
       url: "/projects/"
     - title: "Blog"
       url: "/blog/"
-    - title: "Pages"
-      submenu:
-        - url: "/about/"
-          title: "About"
-        - url: "/contact/"
-          title: "Contact"
-        - url: "/elements/"
-          title: "Elements"
+    - url: "/about/"
+      title: "About"
 
 #-------------------------------
 # Author Settings
@@ -33,8 +26,10 @@ author:
   author__avatar: "/images/profile.jpeg"
 
 social:
-  - { icon: "fa-brands fa-instagram", link: "https://instagram.com" }
-  - { icon: "fa-brands fa-github", link: "https://github.com" }
+  - {
+      icon: "fa-brands fa-linkedin",
+      link: "https://www.linkedin.com/in/biancacopeland/",
+    }
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -49,12 +44,12 @@ hero:
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__title: Latest work
+  projects__description: I use research to uncover insights and turn them into human-centered solutions that make a difference.
 
 #-------------------------------
 # Testimonials Section
-testimonial__title: What clients say
+testimonial__title: Recommendations
 testimonial__description:
 
 testimonial__items:
@@ -119,24 +114,3 @@ footer_menu__settings:
       url: "/blog/"
     - url: "/about/"
       title: "About"
-    - url: "/contact/"
-      title: "Contact"
-    - url: "/elements/"
-      title: "Elements"
-
-#-------------------------------
-# Contact Settings
-contact:
-  form_id: your@email.com # Add your form_id
-  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
-# NOTE
-# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
-
-#-------------------------------
-# Google Analytics
-google-analytics: # Add your GA Tracking Id
