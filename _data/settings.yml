@@ -23,7 +23,7 @@ menu__settings:
 author:
   author__name: Bianca Copeland
   author__bio: I am a researcher with a diverse professional background in education, graphic design, and entrepreneurship, however, my career has always been guided by a passion for people and creativity.
-  author__avatar: "/images/01-1.jpg"
+  author__avatar: "/images/biancaprofile.jpg"
 
 social:
   - {
@@ -39,7 +39,7 @@ social:
 hero:
   hero__title: I'm Bianca. I will create design that can give you value
   hero__description: I am a researcher with a diverse professional background in education, graphic design, and entrepreneurship, however, my career has always been guided by a passion for people and creativity.
-  hero__image: "/images/01-1.jpg"
+  hero__image: "/images/biancaprofile.jpg"
 
 #-------------------------------
 # Projects Settings
