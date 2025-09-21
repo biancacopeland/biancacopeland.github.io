@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  If you cannot do great things, do small things in a great way
+title:  This is a test
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2024-11-11 15:01:35 +0300
 image:  '/images/04.jpg'
