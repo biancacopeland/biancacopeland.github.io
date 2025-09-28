@@ -10,7 +10,7 @@ tags: [design, tools]
 
 After doing work that required me to put together mock-ups, I came to realise that although I knew Affinity Designer, I had gaps in my knowledge with Affinity Photo. Furthermore, I wanted to understand in what contexts one would use Affinity Photo over Affinity Designer. To understand the use cases for Affinity Photo, I needed to have a well-rounded understanding of the tool. 
 
-There is a helpful YouTube channel called Affinity Revolutions where they give step by step tutorials for the Affinity suite. With these tutorials as a reference I decided to I set myself another design challenge ‘10 days of Affinity Photo’.
+There is a helpful YouTube channel called Affinity Revolutions where they give step by step tutorials for the Affinity suite. With these tutorials as a reference I decided to I set myself another design challenge '10 days of Affinity Photo’.
 
 
 How to Blend Two Images: https://youtu.be/pOBtq484XUQ
