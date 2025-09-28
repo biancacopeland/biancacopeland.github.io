@@ -3,7 +3,7 @@ layout: post
 title: UI challenge
 description: Learning UI.
 date: 2021-07-21 00:00:00 +0100
-image: "/images/02.jpg"
+image: "/images/uidesign.jpeg"
 tags: [design, tools]
 ---
 
@@ -24,7 +24,6 @@ My process was as follows: 
   <li>Reassemble the apps using the above assets</li>
   <li>Create a simple prototype to showcase the designs</li>
 </ol>
-
 
 I learned that UI design is broken into components which are repeated using different sources of data such as images, text, icons and buttons. The repetition of components creates brand consistency and familiarity for the user. Component libraries provide a clear guide for the designer so that they do not have to ‘recreate the wheel’ with every screen. Components are the backbone of UI design.
 

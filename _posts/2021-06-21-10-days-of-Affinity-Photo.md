@@ -3,7 +3,7 @@ layout: post
 title: 10 days of Affinity Photo
 description: Adding a new tool to my toolbox.
 date: 2021-06-21 00:00:00 +0100
-image: "/images/02.jpg"
+image: "/images/affinityphoto.png"
 tags: [design, tools]
 ---
 
