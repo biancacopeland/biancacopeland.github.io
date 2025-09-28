@@ -16,18 +16,18 @@ The goal for this UI challenge was to learn how Apps are put together as well as
 <img src="/images/uichallenge1.png" loading="lazy" alt="A picture of an Apple Watch">
 
 My process was as follows: 
-	1.	Take screenshots from the apps that I love 
-	2.	Identify the repeated patterns and components from each of the apps 
-	3.	Build a component library of my own 
-	4.	Recreate any icons or illustrations used in the designs, as well as, source any photographs that I might need 
-	5.	Reassemble the apps using the above assets 
+1.	Take screenshots from the apps that I love 
+2.	Identify the repeated patterns and components from each of the apps 
+3.	Build a component library of my own 
+4.	Recreate any icons or illustrations used in the designs, as well as, source any photographs that I might need 
+5.	Reassemble the apps using the above assets 
 6.	Create a simple prototype to showcase the designs
 
 I learned that UI design is broken into components which are repeated using different sources of data such as images, text, icons and buttons. The repetition of components creates brand consistency and familiarity for the user. Component libraries provide a clear guide for the designer so that they do not have to ‘recreate the wheel’ with every screen. Components are the backbone of UI design.
 
 There are key learning takeaways for each App. Apple Fitness, embodies responsive design as we see the designs scale between different interfaces. Products and services are used in a range of different contexts, and what works on one device, or one screen size, may not work well on another. It is important to be aware of how a design can scale and adapt to different interfaces.
 
-<img src="/images/uichalleng2.png" loading="lazy" alt="A picture of iPhone with the Apple Fitness app">
+<img src="/images/uichallenge2.png" loading="lazy" alt="A picture of iPhone with the Apple Fitness app">
 
 WaterMinder brings together the functionality of recording daily water intakes with a beautifully animated and gamified process. This is an example of form and function working well together, creating a delightful experience for the user.
 
