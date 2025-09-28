@@ -16,12 +16,15 @@ The goal for this UI challenge was to learn how Apps are put together as well as
 <img src="/images/uichallenge1.png" loading="lazy" alt="A picture of an Apple Watch">
 
 My process was as follows: 
-1.	Take screenshots from the apps that I love 
-2.	Identify the repeated patterns and components from each of the apps 
-3.	Build a component library of my own 
-4.	Recreate any icons or illustrations used in the designs, as well as, source any photographs that I might need 
-5.	Reassemble the apps using the above assets 
-6.	Create a simple prototype to showcase the designs
+<ol>
+  <li>Take screenshots from the apps that I love</li>
+  <li>Identify the repeated patterns and components from each of the apps</li>
+  <li>Build a component library of my own</li>
+  <li>Recreate any icons or illustrations used in the designs, as well as source any photographs that I might need</li>
+  <li>Reassemble the apps using the above assets</li>
+  <li>Create a simple prototype to showcase the designs</li>
+</ol>
+
 
 I learned that UI design is broken into components which are repeated using different sources of data such as images, text, icons and buttons. The repetition of components creates brand consistency and familiarity for the user. Component libraries provide a clear guide for the designer so that they do not have to ‘recreate the wheel’ with every screen. Components are the backbone of UI design.
 
