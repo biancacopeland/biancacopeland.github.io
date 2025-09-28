@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UI challenge
+title: UI design
 description: Learning UI.
 date: 2021-07-21 00:00:00 +0100
 image: "/images/uidesign.jpeg"
