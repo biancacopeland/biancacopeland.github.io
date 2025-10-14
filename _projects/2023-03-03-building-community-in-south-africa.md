@@ -5,4 +5,5 @@ subtitle: Amplinate
 image: '/images/Southafrica.jpg'
 ---
 
-Read published article from Amplinate [here].(https://www.amplinate.com/techcasestudies/building-community-in-south-africa)
+Read published article from Amplinate [here](https://www.amplinate.com/techcasestudies/building-community-in-south-africa).
+
