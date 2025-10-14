@@ -5,4 +5,4 @@ subtitle: IPSOS B&A
 image: '/images/dublin.jpg'
 ---
 
-Read published article on The Irish Times [here].(https://www.irishtimes.com/life-style/2025/04/20/ireland-now-anxious-jumpy-and-no-country-for-young-men-or-women/)
+Read published article on The Irish Times [here](https://www.irishtimes.com/life-style/2025/04/20/ireland-now-anxious-jumpy-and-no-country-for-young-men-or-women/).
