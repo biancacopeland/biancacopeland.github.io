@@ -44,7 +44,7 @@ hero:
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest work
+  projects__title: Published work
   projects__description: I use research to uncover insights and turn them into human-centered solutions that make a difference.
 
 #-------------------------------
@@ -104,7 +104,7 @@ footer_menu__settings:
       url: "/"
     - title: "Projects"
       url: "/projects/"
-    - title: "Blog"
+    - title: "Articles"
       url: "/blog/"
     - url: "/about/"
       title: "About"
