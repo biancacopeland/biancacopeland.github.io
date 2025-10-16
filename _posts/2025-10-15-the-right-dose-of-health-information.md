@@ -2,7 +2,7 @@
 layout: post
 title: The Right Dose of Health Information
 description: Finding the balance between awareness and overload.
-date: 2025-10-16 15:01:35 +0300
+date: 2025-10-15 15:01:35 +0300
 image: "/images/applewatch.jpg"
 tags: [heathcare, technology, wellness]
 ---
