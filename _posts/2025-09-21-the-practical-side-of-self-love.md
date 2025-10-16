@@ -4,7 +4,7 @@ title: The Practical Side of Self-Love
 description: A reflection on how mindfulness transforms self-care into a pathway for self-connection.
 date: 2025-09-21 15:01:35 +0300
 image: "/images/02.jpg"
-tags: [lifestyle, travel, story]
+tags: [wellbeing, connection]
 ---
 
 We’ve all heard the saying: “you have to love yourself before you can love others.” It’s a phrase that sounds wise, almost poetic. But when we pause to think about it, questions quickly arise: What does it actually mean to love yourself? And how do you go about doing it in real, everyday life?
