@@ -13,7 +13,7 @@ menu__settings:
       url: "/"
     - title: "Projects"
       url: "/projects/"
-    - title: "Blog"
+    - title: "Articles"
       url: "/blog/"
     - url: "/about/"
       title: "About"
