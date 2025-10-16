@@ -3,7 +3,7 @@ layout: post
 title: The Practical Side of Self-Love
 description: A reflection on how mindfulness transforms self-care into a pathway for self-connection.
 date: 2025-09-21 15:01:35 +0300
-image: "/images/02.jpg"
+image: "/images/Selflove.jpg"
 tags: [wellbeing, connection]
 ---
 
