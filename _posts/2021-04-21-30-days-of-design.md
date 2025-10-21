@@ -1,11 +1,11 @@
-—
+---
 layout: post
 title: 30 days of design challenge
 description: To broaden my graphic design skillset, I did a 30 day design challenge.
 date: 2021-04-21 00:00:00 +0100
 image: “/images/designheader.jpeg”
 tags: [design, tools]
-—
+---
 
 In order to broaden my graphic design skillset, I decided to do a 30 day design challenge over the month of April. 
 
