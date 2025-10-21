@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 days of Affinity Photo
+title: 10 days of Affinity Photo challenge
 description: Adding a new tool to my toolbox.
 date: 2021-06-21 00:00:00 +0100
 image: "/images/affinityphoto.png"
@@ -12,19 +12,23 @@ After doing work that required me to put together mock-ups, I came to realise th
 
 There is a helpful YouTube channel called Affinity Revolutions where they give step by step tutorials for the Affinity suite. With these tutorials as a reference I decided to I set myself another design challenge '10 days of Affinity Photo’.
 
+<img src=“/images/1623842142396.png” loading=“lazy” alt=“A picture of an Apple Watch”>
 
 How to Blend Two Images: https://youtu.be/pOBtq484XUQ
 
 My process was, I’d watch a tutorial video whilst recreating what was being created in Affinity photo. After each project the skills I had learnt was documented in DayOne. On a side note DayOne is a beautiful journalling app. 
 
+<img src=“/images/1623427142241.png” loading=“lazy” alt=“A picture of an Apple Watch”>
 
 Sky Replacement: https://youtu.be/NERr2Jwd9MA
 
+<img src=“/images/1623427216583.png” loading=“lazy” alt=“A picture of an Apple Watch”>
 
 Double Exposure Effect: https://youtu.be/PjO4HWMikNY
 
 At the end of the 10 day challenge I gained more tools for my creative tool box. I learnt photo composition, photo merging, double exposure effects, lighting, shadows and highlights, masks layer, photo editing, when to use certain effects, and power of the selection tool. 
 
+<img src=“/images/1623427652047.png” loading=“lazy” alt=“A picture of an Apple Watch”>
 
 Fantasy Manipulation: https://youtu.be/6jfgHqLqBWU
 

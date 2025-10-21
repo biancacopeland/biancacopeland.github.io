@@ -37,7 +37,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I'm Bianca
+  hero__title: Hello, my name is Bianca
   hero__description: I am a researcher with a diverse professional background in education, graphic design, and entrepreneurship, however, my career has always been guided by a passion for people and creativity.
   hero__image: "/images/biancaprofile.jpg"
 
