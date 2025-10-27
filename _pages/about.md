@@ -13,7 +13,7 @@ Currently at Ipsos B&A, I conduct qualitative research across sectors including 
 
 I’ve delivered insights for local and international brands, but what I value most is connecting with people and leaving each project, client, and community a little better than I found them.
 
-<div class="contact-button">
+<div>
   <a href="/images/Research2025.pdf" class="button button--primary button--small" target="_blank" rel="noopener">
     View My Resume
   </a>
