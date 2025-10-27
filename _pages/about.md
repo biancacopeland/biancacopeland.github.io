@@ -12,3 +12,5 @@ With a diverse background spanning education, the arts, and design, I bring a un
 Currently at Ipsos B&A, I conduct qualitative research across sectors including beauty, utilities, finance, education, and UX, working with both B2B and B2C clients. My varied skill set--rooted in creativity, empathy, and critical inquiry--helps me design and moderate focus groups, in-depth interviews, usability tests, and online ethnographies that reveal meaningful human truths.
 
 I’ve delivered insights for local and international brands, but what I value most is connecting with people and leaving each project, client, and community a little better than I found them.
+
+You can view my resume [here](/images/Research2025.pdf).
