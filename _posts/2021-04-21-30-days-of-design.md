@@ -3,257 +3,228 @@ layout: post
 title: 30 days of design challenge
 description: To broaden my graphic design skillset, I did a 30 day design challenge.
 date: 2021-04-21 00:00:00 +0100
-image: “/images/designheader.jpeg”
+image: "/images/designheader.jpeg"
 tags: [design, tools]
 ---
 
-In order to broaden my graphic design skillset, I decided to do a 30 day design challenge over the month of April. 
+In order to broaden my graphic design skillset, I decided to do a 30-day design challenge over the month of April.
 
-> “Start copying what you love. Copy, copy, copy, copy. At the end of the copy you will find yourself.” Austin Kleon
+> "Start copying what you love. Copy, copy, copy, copy. At the end of the copy you will find yourself." -- Austin Kleon
 
-For this challenge, I drew from a range of graphic design trends that I admire and wanted to learn from. 
+For this challenge, I drew from a range of graphic design trends that I admire and wanted to learn from.
 
-Although I learned a lot from analysing the structure of these trends, I also learned that style is style. The biggest lesson that I have learned over the last 30 days is how to better use my design apps. I’ve become faster and more confident with Affinity Designer, Affinity Photo, Procreate and Apple Keynote. 
+Although I learned a lot from analyzing the structure of these trends, I also learned that style is style. The biggest lesson I’ve taken from the last 30 days is how to better use my design apps. I’ve become faster and more confident with **Affinity Designer**, **Affinity Photo**, **Procreate**, and **Apple Keynote**.
 
-Below you will see that each entry has a reference image, as well as my recreation of it. I have also shared a link to where you can find some more of the the original designer’s work online.
+Each entry below includes a reference image, my recreation, and a link to the original designer’s work.
 
-## Entry 1:
+---
 
-<img src=“/images/design1.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+## Entry 1
 
-Leslie Olson: https://dribbble.com/LeslieLOlson
+<img src="/images/design1.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Skills: pen tool, creating a simple and effective design quickly, colour pairing 
+**Reference:** [Leslie Olson](https://dribbble.com/LeslieLOlson)  
+**Skills:** Pen tool, quick design execution, colour pairing
 
-## Entry 2:
+## Entry 2
 
-<img src=“/images/design2.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+<img src="/images/design2.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Society6: https://pin.it/1hRFliQ
+**Reference:** [Society6](https://pin.it/1hRFliQ)  
+**Skills:** Shape tool, layers, colour pairing
 
-Skills: shape tool, layers & colour pairing 
+## Entry 3
 
-## Entry 3:
+<img src="/images/design3.png" loading="lazy" alt="A picture of an Apple Watch">
 
-<img src=“/images/design3.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+**Reference:** [Colourpin](https://pin.it/22I4coE)  
+**Skills:** Logo design, branding, text on curves, masking
 
-Colourpin: https://pin.it/22I4coE
+## Entry 4
 
-Skills: logo design, branding (how the logo is applied to business cards), text on a circles & masking
+<img src="/images/design4.png" loading="lazy" alt="A picture of an Apple Watch">
 
-## Entry 4:
+**Reference:** [Issuu](https://pin.it/4nHpTpG)  
+**Skills:** Magazine layout, font pairing
 
-<img src=“/images/design4.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+## Entry 5
 
-Issuu: https://pin.it/4nHpTpG
+<img src="/images/design5.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Skills: magazine design, layout, font pairing 
+**Reference:** [Evgeny Tutov](https://dribbble.com/Tutov)  
+**Skills:** Pen tool, blending, layers, intersect tool, typography
 
-## Entry 5:
+## Entry 6
 
-<img src=“/images/design5.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+<img src="/images/design6.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Evgeny Tutov: https://dribbble.com/Tutov
+**Reference:** [Daily Minimal](https://pin.it/6FY6VW2)  
+**Skills:** Layers, pen tool, opacity, textures
 
-Skills: pen tool, blending, layers, intersect tool, typography, brand design
+## Entry 7
 
-## Entry 6:
+<img src="/images/design7.png" loading="lazy" alt="A picture of an Apple Watch">
 
-<img src=“/images/design6.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+**Reference:** [Jay Fleck](https://www.icanvas.com/canvas-print/seaside-jfl56#1PC3-26x18)  
+**Skills:** Foreground/background, textures, colour palettes
 
-Daily Minimal: https://pin.it/6FY6VW2
+## Entry 8
 
-Skills: layers, pen tool, opacity, textures 
+<img src="/images/design8.png" loading="lazy" alt="A picture of an Apple Watch">
 
-## Entry 7:
+**Reference:** [Jason White](https://medium.com/@action/visual-design-principles-101-c2660fbca862)  
+**Skills:** Shape tool, design theory, layout, font pairing
 
-<img src=“/images/design7.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+## Entry 9
 
-Jay Fleck: https://www.icanvas.com/canvas-print/seaside-jfl56#1PC3-26x18
+<img src="/images/design9.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Skills: layers, pen tool, foreground and background, textures, colour pallets
+**Reference:** [Night Blue Graphic Design](https://pin.it/4ul8KUG)  
+**Skills:** Lighting, depth, shadows, pen tool
 
-## Entry 8:
+## Entry 10
 
-<img src=“/images/design8.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+<img src="/images/design10.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Jason White: https://medium.com/@action/visual-design-principles-101-c2660fbca862 
+**Reference:** [Dustin Haver](https://dribbble.com/dustinhaver)  
+**Skills:** Logo design, typography, colour
 
-Skills: shape tool, design theory, layout, font pairing 
+## Entry 11
 
-## Entry 9:
+<img src="/images/design11.png" loading="lazy" alt="A picture of an Apple Watch">
 
-<img src=“/images/design9.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+**Reference:** [Sarah Ann Design](https://pin.it/5A7DwUj)  
+**Skills:** Logo design, packaging, typography, font pairing
 
-Night Blue Graphic Design: https://pin.it/4ul8KUG
+## Entry 12
 
-Skills: lighting, depth, layers, shadows, pen tool
+<img src="/images/design12.png" loading="lazy" alt="A picture of an Apple Watch">
 
-## Entry 10:
+**Reference:** [Yoga Perdana](https://dribbble.com/yoga)  
+**Skills:** Logo design, shapes, pen tool
 
-<img src=“/images/design10.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+## Entry 13
 
-Dustin Haver: https://dribbble.com/dustinhaver
+<img src="/images/design13.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Skills: logo design, typography, colour 
+**Reference:** Pinterest  
+**Skills:** UI design, icon design, shapes, pen tool, layout
 
-## Entry 11:
+## Entry 14
 
-<img src=“/images/design11.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+<img src="/images/design14.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Sarah Ann Design: https://pin.it/5A7DwUj
+**Reference:** [ColibriPrint](https://pin.it/18dorNU)  
+**Skills:** Vector illustration, layering, subtract tool, pen tool, colour pairing
 
-Skills: logo design, packaging, typography, font pairing 
+## Entry 15
 
-## Entry 12:
+<img src="/images/design15.png" loading="lazy" alt="A picture of an Apple Watch">
 
-<img src=“/images/design12.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+**Reference:** [Charly Tudor](https://pin.it/5O525PB)  
+**Skills:** Logo design, typography, text on a curve
 
-Yoga Perdana: https://dribbble.com/yoga
+## Entry 16
 
-Skills: logo design, shapes, pen tool
+<img src="/images/design16.png" loading="lazy" alt="A picture of an Apple Watch">
 
-## Entry 13:
+**Reference:** [An Introverted Spirit](https://pin.it/6ZOwDCX)  
+**Skills:** Pen tool, weighting, duplication, layout
 
-<img src=“/images/design13.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+## Entry 17
 
-Pinterest
+<img src="/images/design17.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Skills: UI design, icon design, shapes, pen tool, layout 
+**Reference:** [Rebecca Lee Creative](https://rebeccaleecreative.com/blog/minimaltype)  
+**Skills:** Logo design, shapes, colour palette
 
-## Entry 14:
+## Entry 18
 
-<img src=“/images/design14.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+<img src="/images/design18.png" loading="lazy" alt="A picture of an Apple Watch">
 
-ColibriPrint: https://pin.it/18dorNU
+**Reference:** [Syahidah Asma Amania](https://www.behance.net/gallery/65007141/Branding-YASH-Fruit-Salad)  
+**Skills:** Pen tool, logo design, pattern design, layering, typography
 
-Skills: vector illustration, layering, subtract tool, pen tool, colour pairing
+## Entry 19
 
-## Entry 15:
+<img src="/images/design19.png" loading="lazy" alt="A picture of an Apple Watch">
 
-<img src=“/images/design15.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+**Reference:** Instagram  
+**Skills:** UI design, logo design, layout, shapes
 
-Charly Tudor: https://pin.it/5O525PB
+## Entry 20
 
-Skills: logo design, typography, text on a curve
+<img src="/images/design20.png" loading="lazy" alt="A picture of an Apple Watch">
 
-## Entry 16:
+**Reference:** [Aditya](https://dribbble.com/Aditya-Chhatrala)  
+**Skills:** Logo design, negative space
 
-<img src=“/images/design16.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+## Entry 21
 
-An Introverted Spirit: https://pin.it/6ZOwDCX
+<img src="/images/design21.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Skills: pen tool, weighting, duplication, layout 
+**Reference:** [Omnium](https://dribbble.com/omniumstudio)  
+**Skills:** Icons, pen tool, shapes
 
-## Entry 17:
+## Entry 22
 
-<img src=“/images/design17.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+<img src="/images/design22.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Rebecca Lee Creative: https://rebeccaleecreative.com/blog/minimaltype
+**Reference:** [Patoo Design](https://patoodesign.com/does-branding-really-matter/)  
+**Skills:** Logo design, mock-ups, packaging, pen tool
 
-Skills: logo design, shapes, colour pallet
+## Entry 23
 
-## Entry 18:
+<img src="/images/design23.png" loading="lazy" alt="A picture of an Apple Watch">
 
-<img src=“/images/design18.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+**Reference:** [Adam Kwiatkowski](https://dribbble.com/p_kwiatkowski)  
+**Skills:** Depth, shadows
 
-Syahidah Asma Amania: https://www.behance.net/gallery/65007141/Branding-YASH-Fruit-Salad
+## Entry 24
 
-Skills: pen tool, logo design, pattern design, layering, typography 
+<img src="/images/design24.png" loading="lazy" alt="A picture of an Apple Watch">
 
-## Entry 19:
+**Reference:** [Laracon EU](http://www.liefhebber.biz/design/laracon-eu-2018)  
+**Skills:** Shapes, gradients, depth, poster design, layout
 
-<img src=“/images/design19.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+## Entry 25
 
-Instagram
+<img src="/images/design25.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Skills: UI design, logo design, layout, shapes 
+**Reference:** [Graphic Mama](https://pin.it/18QVBq1)  
+**Skills:** Affinity Photo, select tool, masking, typography
 
-## Entry 20:
+## Entry 26
 
-<img src=“/images/design20.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+<img src="/images/design26.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Aditya: https://dribbble.com/Aditya-Chhatrala
+**Reference:** [Medha Prasad](https://pin.it/5jf7L67)  
+**Skills:** Pen tool, shapes, depth, layers
 
-Skills: logo design, negative space
+## Entry 27
 
-## Entry 21:
+<img src="/images/design27.png" loading="lazy" alt="A picture of an Apple Watch">
 
-<img src=“/images/design21.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+**Reference:** [Made Thought](https://www.madethought.com/work/the-nue-co)  
+**Skills:** Photo editing, Affinity Photo, poster layout
 
-Omnium: https://dribbble.com/omniumstudio
+## Entry 28
 
-Skills: icons, pen tool, shapes
+<img src="/images/design28.png" loading="lazy" alt="A picture of an Apple Watch">
 
-## Entry 22:
+**Reference:** [PicsArt](https://pin.it/7x908J)  
+**Skills:** Photoshop, poster design, photo editing
 
-<img src=“/images/design22.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+## Entry 29
 
-Patoo Design: https://patoodesign.com/does-branding-really-matter/
+<img src="/images/design29.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Skills: logo design, mock-ups, packaging, pen tool 
+**Reference:** [Affinity Photo](https://affinity.serif.com/en-gb/photo/)  
+**Skills:** Affinity Photo, logo design, mock-ups, packaging, patterns, lighting
 
-## Entry 23:
+## Entry 30
 
-<img src=“/images/design23.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
+<img src="/images/design30.png" loading="lazy" alt="A picture of an Apple Watch">
 
-Adam Kwiatkowski: https://dribbble.com/p\_kwiatkowski
-
-Skills: depth, shadows
-
-## Entry 24:
-
-<img src=“/images/design24.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
-
-Laracon EU: http://www.liefhebber.biz/design/laracon-eu-2018
-
-Skills: shapes, gradients, depth, poster design, layout 
-
-## Entry 25:
-
-<img src=“/images/design25.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
-
-Graphic Mama: https://pin.it/18QVBq1
-
-Skills: affinity photo, select tool, masking, typography 
-
-## Entry 26:
-
-<img src=“/images/design26.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
-
-Medha Prasad: https://pin.it/5jf7L67 
-
-Skills: pen tool, shapes, depth, layers
-
-## Entry 27:
-
-<img src=“/images/design27.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
-
-Made Thought: https://www.madethought.com/work/the-nue-co 
-
-Skills: photo editing, affinity photo, poster layout
-
-## Entry 28:
-
-<img src=“/images/design28.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
-
-PicsArt: https://pin.it/7x908J
-
-Skills: photoshop, poster design, photo editing 
-
-## Entry 29:
-
-<img src=“/images/design29.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
-
-Affinity Photo: https://affinity.serif.com/en-gb/photo/
-
-Skills: affinity photo, logo design, mock ups / packaging, patterns, lighting
-
-## Entry 30:
-
-<img src=“/images/design30.png” loading=“lazy” alt=“A picture of an Apple Watch”\>
-
-Christmas Drawing: https://pin.it/72N1Ikd
-
-Skills:  affinity photo, pen tool, layers, photo manipulation
-
+**Reference:** [Christmas Drawing](https://pin.it/72N1Ikd)  
+**Skills:** Affinity
